@@ -33,7 +33,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 For more information on circom and its applications, refer to the following resources:
 
-- [Circom Documentation](https://circom.readthedocs.io/)
+- [Circom Documentation](https://docs.circom.io/)
 - [Zero-Knowledge Proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 
 Happy learning!
