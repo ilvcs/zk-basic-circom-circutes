@@ -23,7 +23,7 @@ The following circuit examples are included in this repository:
 2. Multiplication Circuit: A circuit that performs multiplication of two numbers.
 3. Comparison Circuit: A circuit that compares two numbers and outputs the result.
 
-Feel free to explore and learn from these examples. Contributions are also welcome!
+Feel free to explore and learn from these examples. Contributions are also welcome! If you have any questions or suggestions, please feel free to open an issue or submit a pull request.
 
 ## License
 
